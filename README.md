@@ -46,17 +46,17 @@
  * Gareth
 9. What Web Accessibility Tools are available for developers?
  * Nicholas
- - Unit Testing - axe-core  
- - End to End Testing - axe-webdriverjs  
+ - Unit Testing - axe-core from Deque
+ - End to End Testing - axe-webdriverjs for selenium, cypress-axe for react cypress 
  - Chrome DevTools tools - Accessibility Tab in the Styles Windows
- - Chrome extensions - site improve, axe, lighthouse  
- - Screen readers, Narrator for windows, Voiceover for mac - https://webaim.org/articles/voiceover/  
- - Manual Testing  
- - Visibility Colour Contrast - color contrast analyzer, site improve acces
+ - Chrome extensions - site improve, axe, lighthouse 
+ - Manual TestingScreen readers, Narrator for windows, NVDA for windows, Voiceover for mac - https://webaim.org/articles/voiceover/  
+ - Visibility Colour Contrast - color contrast analyzer, site improve accessibility checker
 10. What assistive technologies are used for web browsing?
  * Gareth
 11. What guidelines are available for the developers and designers?
  * Nicholas
+  - WCAG - Web Content Accessibility Guidelines - https://www.w3.org/WAI/standards-guidelines/wcag/
 12. Accessibility can’t fall on one person’s shoulders. It’s a collective involvement throughout
 your organisation and projects. Do you agree?
  * Nicholas, Gareth
