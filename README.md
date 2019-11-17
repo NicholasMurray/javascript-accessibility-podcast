@@ -35,11 +35,11 @@
    * Nicholas
     - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
  - What about hearing impairments?
-  * Gareth
+   * Gareth
     - When a user can't hear dialog or music, Deafness or hearing impairments, including individuals who are hard of hearing;
  - can you tell us a bit about cognitive impairments?
- * Nicholas
-   - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
+   * Nicholas
+    - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
 7. How do you go about understanding the users diversity?
  * Gareth
 8. As UI engineers, how can you make the web more accessible?
