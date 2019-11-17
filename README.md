@@ -7,6 +7,8 @@
 2. Let’s start with telling us a bit about your career and what you currently do within Allstate.
   * Nicholas
   * Gareth
+  - uni, ad agency, allstate
+  - part of FEE team working on one of the companies largest and most used products.
 3. When people talk about ‘Web Accessibility’ what exactly do they mean?
   * Nicholas
 4. Why Web Accessibility is Important and how can you accomplish it?
