@@ -60,6 +60,12 @@
 12. Accessibility can’t fall on one person’s shoulders. It’s a collective involvement throughout
 your organisation and projects. Do you agree?
  * Nicholas, Gareth
+ 
+## Example of sites with great accessibility
+ - https://www.citizensadvice.org.uk
+ - https://www.gov.uk/
+ - https://www.bbc.co.uk/
+ - https://www.starbucks.co.uk/
 
 ## Statistics
  - 13.3 million people in the UK have some kind of disability
@@ -69,3 +75,7 @@ your organisation and projects. Do you agree?
  - 19% of the UK population have a hearing loss – of which 6.5 million are over 60 years of age
  - 1.5 million people in the UK have a learning difficulty
  - 2.4 million people in the UK have a manual dexterity issue
+
+## Image
+
+![alt text](https://user-images.githubusercontent.com/1111211/69015722-d7dfdd00-098e-11ea-98be-3b787eced0b2.png)
