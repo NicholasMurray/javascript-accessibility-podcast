@@ -40,13 +40,13 @@
     - #### Visual impairments may include blindness, various common types of low vision and poor eyesight and also various types of colour blindness.
  - What about motor impairments?
    * Nicholas
-      - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
-     - What about hearing impairments?
+    - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
+ - What about hearing impairments?
    * Gareth
     - #### Hearing impairments can include deafness or being hard of hearing. This can impact a user as they may not be able to hear dialog or music.
  - can you tell us a bit about cognitive impairments?
    * Nicholas
-      - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
+    - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
 7. How do you go about understanding the users diversity?
  * Nicholas
     - This a tricky one to if you are not providing specialists software or a website that is specifically for users with impairments
@@ -60,12 +60,12 @@
    - #### I also believe that we can act as teachers for web accessibility. Even if we have a little bit of knowledge on web accessibility we should try and share that with those we work with if possible. For a front-end developer this could be with designers, developers and project managers. It would help them understand the importance of web accessibility and why we should take care to ensure it is implemented in any application.
 9. What Web Accessibility Tools are available for developers?
  * Nicholas
- - Unit Testing - axe-core from Deque
- - End to End Testing - axe-webdriverjs for selenium, cypress-axe for react cypress 
- - Chrome DevTools tools - Accessibility Tab in the Styles Windows
- - Chrome extensions - site improve, axe, lighthouse 
- - Manual TestingScreen readers, Narrator for windows, NVDA for windows, Voiceover for mac - https://webaim.org/articles/voiceover/  
- - Visibility Colour Contrast - color contrast analyzer, site improve accessibility checker
+    - Unit Testing - axe-core from Deque
+    - End to End Testing - axe-webdriverjs for selenium, cypress-axe for react cypress 
+    - Chrome DevTools tools - Accessibility Tab in the Styles Windows
+    - Chrome extensions - site improve, axe, lighthouse 
+    - Manual TestingScreen readers, Narrator for windows, NVDA for windows, Voiceover for mac - https://webaim.org/articles/voiceover/  
+    - Visibility Colour Contrast - color contrast analyzer, site improve accessibility checker
 10. What assistive technologies are used for web browsing?
  * Gareth
    - #### Technologies used for web browsing may include screen readers, speech recognition and screen magnifiers.
