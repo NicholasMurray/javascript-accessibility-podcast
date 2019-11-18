@@ -8,7 +8,7 @@
   * Nicholas
     - This answer could be a podcast in itself.. my first full time job was back in 98 and I've worked for companies large and small since then
     - I've have worked in the public sector, banking sector, insurance sector, a web development shop and a start up.
-    - Now in Allstate I am in the FEE engineering team working with a development team om one of Alstates largest web property that has a very substantial userbase
+    - Now in Allstate I am in the FEE engineering team working with a development team on one of Allstates largest web property that has a very substantial userbase as the Senior UI Engineer
   * Gareth
     - #### I worked for an ad-agency in Belfast as a Front-End Developer for my placement year of University. When I gratudated I then returned there for a few years before moving to Allstate last August.
     - #### In Allstate I am part of the Front-End Engineering team working alonside Nicholas on one of the largest and most used products the company produces.
