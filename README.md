@@ -6,19 +6,19 @@
 1. Introduction
 2. Let’s start with telling us a bit about your career and what you currently do within Allstate.
   * Nicholas
-  - This answer could be a podcast in itself.. my first full time job was back in 98 and I've worked for companies large and small since then
-  - I've have worked in the public sector, banking sector, insurance sector, a web development shop and a start up.
-  - Now in Allstate I am in the FEE engineering team working with a development team om one of Alstates largest web property that has a very substantial userbase
+    - This answer could be a podcast in itself.. my first full time job was back in 98 and I've worked for companies large and small since then
+    - I've have worked in the public sector, banking sector, insurance sector, a web development shop and a start up.
+    - Now in Allstate I am in the FEE engineering team working with a development team om one of Alstates largest web property that has a very substantial userbase
   * Gareth
     - #### I worked for an ad-agency in Belfast as a Front-End Developer for my placement year of University. When I gratudated I then returned there for a few years before moving to Allstate last August.
     - #### In Allstate I am part of the Front-End Engineering team working alonside Nicholas on one of the largest and most used products the company produces.
 3. When people talk about ‘Web Accessibility’ what exactly do they mean?
   * Nicholas
-  - Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality.
-  - Companies that create browsers such as google, apple, microsoft and mozilla spend a lot of money ensuring that your code renders on screen what you intended but when users are accessing your site by for example using a screen reader your source code may not convey the same details that can be parsed visually so its important to take into consideration Web Accessibility when creating your website
- - Equality Act 2010 
- - Duty to make reasonable adjustments for disabled people
- - A person ... concerned with the provision of a service to the public or a section of the public (for payment or not) must not discriminate against a person requiring the service by not providing the person with the service.
+     - Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality.
+     - Companies that create browsers such as google, apple, microsoft and mozilla spend a lot of money ensuring that your code renders on screen what you intended but when users are accessing your site by for example using a screen reader your source code may not convey the same details that can be parsed visually so its important to take into consideration Web Accessibility when creating your website
+    - Equality Act 2010 
+    - Duty to make reasonable adjustments for disabled people
+    - A person ... concerned with the provision of a service to the public or a section of the public (for payment or not) must not discriminate against a person requiring the service by not providing the person with the service.
 4. Why Web Accessibility is Important and how can you accomplish it?
   * Gareth
     - #### Web Accessibility is very important as some of you user base may not be able to use your site or product in a way you might expect them too. Due to various impairments some users will need to navigate your site or product using a screen reader among other technologies.
@@ -31,25 +31,28 @@
     - #### Another thing to consider is testing your accessibility changes through a host of tools that we will chat more on later. 
 5. Can you describe the first project you worked on with web accessibility in mind?
   * Nicholas
-   - going to say that although I would have always tried to keep sites readable and keep users in mind that this is the first time I have been involved in a substantial effort to fully comply with WCAG AA for every single facet of accessing a website for all users whether they are impaired or not.
-   - In previous iterations of web development stacks you could view all your code and that made it easier to take into consideration accessibility considerations such as semantic HTML but with javascript framework single page app component based architecture you are maybe working on a component in isolation from the rest of the codebase and its harder to ensure that your component is accessibile in relation to the rest of the application at development time
-   - although now we have so many ways to tackle accessiblity through unit tests, integration and end-to-end tesing, QA, screenreader testing, colour testing, etc
+     - going to say that although I would have always tried to keep sites readable and keep users in mind that this is the first time I have been involved in a substantial effort to fully comply with WCAG AA for every single facet of accessing a website for all users whether they are impaired or not.
+     - In previous iterations of web development stacks you could view all your code and that made it easier to take into consideration accessibility considerations such as semantic HTML but with javascript framework single page app component based architecture you are maybe working on a component in isolation from the rest of the codebase and its harder to ensure that your component is accessibile in relation to the rest of the application at development time
+     - although now we have so many ways to tackle accessiblity through unit tests, integration and end-to-end tesing, QA, screenreader testing, colour testing, etc
 6. What are the needs that Web Accessibility aims to address?
  - Can you give some examples of Visual impairments?
    * Gareth
     - #### Visual impairments may include blindness, various common types of low vision and poor eyesight and also various types of colour blindness.
  - What about motor impairments?
    * Nicholas
-    - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
- - What about hearing impairments?
+      - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
+     - What about hearing impairments?
    * Gareth
     - #### Hearing impairments can include deafness or being hard of hearing. This can impact a user as they may not be able to hear dialog or music.
  - can you tell us a bit about cognitive impairments?
    * Nicholas
-    - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
+      - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
 7. How do you go about understanding the users diversity?
- * Gareth
-   - #### USNURE ABOUT THIS?
+ * Nicholas
+    - This a tricky one to if you are not providing specialists software or a website that is specifically for users with impairments
+    - The reason for this is that Screen readers aren't user agents so they won't be picked up by analystics software as a screen reader but will instead as safari for example. So your google analytics won't show a certain percentage as screen readers or voice assistance
+    - I would say the best approach would be to consider your users diversity to be a reflection of the percentage of the general population that have an impairment of some type
+    - You can build this into any statistics you generate about your browser support, we as front end engineers will spend a lot of time ensuring that our sites display the same across all browsers as we would not want to exclude a significant  percentage of our users based on what browser they use. So it is worth the effort then also to make sure your site works for users whether they have a visual impairment, motor impairment or any other type of impairment
 8. As UI engineers, how can you make the web more accessible?
  * Gareth
    - #### We can help make the web more accessible by always thinking about web accessibility when working on anything web related. We can aim to write code that enhances web accessibility by following the standards set and also from various resources across the internet. We should also test the code we write against web accessibility standards, there are some tools available for this that help create a good process for writing web accessible code. We will touch on those soon.
@@ -82,7 +85,8 @@
    - #### Text size on OS can be increased  - MacOS, Windows, iOS, Android
 11. What guidelines are available for the developers and designers?
  * Nicholas
-  - WCAG - Web Content Accessibility Guidelines - https://www.w3.org/WAI/standards-guidelines/wcag/
+    - WCAG - Web Content Accessibility Guidelines - https://www.w3.org/WAI/standards-guidelines/wcag/
+    - WAI ARAI Practices - Web Accessibility Initiative - Accessible Rich Internet Applications - https://www.w3.org/TR/wai-aria-practices/example
 12. Accessibility can’t fall on one person’s shoulders. It’s a collective involvement throughout
 your organisation and projects. Do you agree?
  * Nicholas, Gareth
@@ -94,6 +98,7 @@ your organisation and projects. Do you agree?
  - https://www.gov.uk/
  - https://www.bbc.co.uk/
  - https://www.starbucks.co.uk/
+ - https://www.airbnb.co.uk/
 
 ## Statistics
  - 13.3 million people in the UK have some kind of disability
