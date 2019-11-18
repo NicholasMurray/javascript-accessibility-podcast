@@ -10,8 +10,8 @@
   - I've have worked in the public sector, banking sector, insurance sector, a web development shop and a start up.
   - Now in Allstate I am in the FEE engineering team working with a development team om one of Alstates largest web property that has a very substantial userbase
   * Gareth
-  - #### I worked for an ad-agency in Belfast as a Front-End Developer for my placement year of University. When I gratudated I then returned there for a few years before moving to Allstate last August.
-  - #### In Allstate I am part of the Front-End Engineering team working alonside Nicholas on one of the largest and most used products the company produces.
+    - #### I worked for an ad-agency in Belfast as a Front-End Developer for my placement year of University. When I gratudated I then returned there for a few years before moving to Allstate last August.
+    - #### In Allstate I am part of the Front-End Engineering team working alonside Nicholas on one of the largest and most used products the company produces.
 3. When people talk about ‘Web Accessibility’ what exactly do they mean?
   * Nicholas
   - Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality.
@@ -21,14 +21,14 @@
  - A person ... concerned with the provision of a service to the public or a section of the public (for payment or not) must not discriminate against a person requiring the service by not providing the person with the service.
 4. Why Web Accessibility is Important and how can you accomplish it?
   * Gareth
-  - #### Web Accessibility is very important as some of you user base may not be able to use your site or product in a way you might expect them too. Due to various impairments some users will need to navigate your site or product using a screen reader among other technologies.
-  - #### Another reason it is vitally important is that could possibly have a lawsuit on your hands if you don’t make the effort to include web accessibility in your applications. This happened to Domino’s Pizza in America after a blind man accused the company of discrimination after he couldn’t place an order online. This was in violation of a 1990 law that bans discrimination based on disability.
-  - #### The WCAG (Web Content Accessibility Guidelines) sets a goal of providing a shared standard for web accessibility. The documents related to this explain how we can make web content more accessible to people with disabilities. It is also broken down into 3 levels depending on the situation. A being the lowest, AA being the mid-level and AAA being the highest and most difficult to comply with. The level you aim for depends on the needs of your application and end users. For the application we are currently working on we are aiming for AA and therefore will test against these standards. 
-  - #### There are a few different ways to accomplish web accessibility. 
-  - #### Firstly by ensuring that your mark-up is semantically correct by using the correct HTML so that technologies such as screen readers and browsers can better understand your intentions for the end-user. 
-  - #### Secondly by giving context to your code if required. For example if you were dealing with multiple car insurance policies and a screen reader needed to read these out to a user, without having accessibility best practices in place, a screen reader would possibly not give context to each policy e.g. Policy, Policy, Policy vs Auto Policy 1, Home Policy 2, Life Policy 3.
-  - #### Another way to accomplish web accessibility is to learn about the best practices and how you can implement them as a developer in your day to day coding. There are lots of very useful resources on the internet that help us understand how to add accessibility to our code such as WebAIM, the Ally (a11y) project checklist and the WCAG checklist.  Another great resource is the Allycasts (A11y) series from Google Chrome Developers on Youtube. It is a few years old now but is a really great introduction to understanding web accessibility. 
-  - #### Another thing to consider is testing your accessibility changes through a host of tools that we will chat more on later. 
+    - #### Web Accessibility is very important as some of you user base may not be able to use your site or product in a way you might expect them too. Due to various impairments some users will need to navigate your site or product using a screen reader among other technologies.
+    - #### Another reason it is vitally important is that could possibly have a lawsuit on your hands if you don’t make the effort to include web accessibility in your applications. This happened to Domino’s Pizza in America after a blind man accused the company of discrimination after he couldn’t place an order online. This was in violation of a 1990 law that bans discrimination based on disability.
+    - #### The WCAG (Web Content Accessibility Guidelines) sets a goal of providing a shared standard for web accessibility. The documents related to this explain how we can make web content more accessible to people with disabilities. It is also broken down into 3 levels depending on the situation. A being the lowest, AA being the mid-level and AAA being the highest and most difficult to comply with. The level you aim for depends on the needs of your application and end users. For the application we are currently working on we are aiming for AA and therefore will test against these standards. 
+    - #### There are a few different ways to accomplish web accessibility. 
+    - #### Firstly by ensuring that your mark-up is semantically correct by using the correct HTML so that technologies such as screen readers and browsers can better understand your intentions for the end-user. 
+    - #### Secondly by giving context to your code if required. For example if you were dealing with multiple car insurance policies and a screen reader needed to read these out to a user, without having accessibility best practices in place, a screen reader would possibly not give context to each policy e.g. Policy, Policy, Policy vs Auto Policy 1, Home Policy 2, Life Policy 3.
+    - #### Another way to accomplish web accessibility is to learn about the best practices and how you can implement them as a developer in your day to day coding. There are lots of very useful resources on the internet that help us understand how to add accessibility to our code such as WebAIM, the Ally (a11y) project checklist and the WCAG checklist.  Another great resource is the Allycasts (A11y) series from Google Chrome Developers on Youtube. It is a few years old now but is a really great introduction to understanding web accessibility. 
+    - #### Another thing to consider is testing your accessibility changes through a host of tools that we will chat more on later. 
 5. Can you describe the first project you worked on with web accessibility in mind?
   * Nicholas
    - going to say that although I would have always tried to keep sites readable and keep users in mind that this is the first time I have been involved in a substantial effort to fully comply with WCAG AA for every single facet of accessing a website for all users whether they are impaired or not.
@@ -37,20 +37,24 @@
 6. What are the needs that Web Accessibility aims to address?
  - Can you give some examples of Visual impairments?
    * Gareth
-    - This is when a user can't see low contrast test - Visual impairments including blindness, various common types of low vision and poor eyesight, various types of color blindness;
+    - #### Visual impairments include blindness, various common types of low vision and poor eyesight, various types of color blindness;
  - What about motor impairments?
    * Nicholas
     - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
  - What about hearing impairments?
    * Gareth
-    - When a user can't hear dialog or music, Deafness or hearing impairments, including individuals who are hard of hearing;
+    - #### When a user can't hear dialog or music, Deafness or hearing impairments, including individuals who are hard of hearing;
  - can you tell us a bit about cognitive impairments?
    * Nicholas
     - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
 7. How do you go about understanding the users diversity?
  * Gareth
+   - #### USNURE ABOUT THIS?
 8. As UI engineers, how can you make the web more accessible?
  * Gareth
+   - #### We can help make the web more accessible by always thinking about web accessibility when working on anything web related. We can aim to write code that enhances web accessibility by following the standards set and also from various resources across the internet. We should also test the code we write against web accessibility standards, there are some tools available for this that help create a good process for writing web accessible code. We will touch on those soon.
+   - #### Also I feel it is important to keep learning about web accessibility when you can. It is something that’s principles may not change too much but as technology grows and evolves so will the need for a more accessible web for everyone. There are some great resources that we spoke about earlier that would enhance any UI Engineers understanding of web accessibility.
+   - #### I also believe that we can act as teachers for web accessibility. Even if we have a little bit of knowledge on web accessibility we should try and share that with those we work with if possible. For a front-end developer this could be with designers, developers and project managers. It would help them understand the importance of web accessibility and why we should take care to ensure it is implemented in any application.
 9. What Web Accessibility Tools are available for developers?
  * Nicholas
  - Unit Testing - axe-core from Deque
