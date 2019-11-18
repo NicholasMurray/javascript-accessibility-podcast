@@ -87,7 +87,7 @@
 your organisation and projects. Do you agree?
  * Nicholas, Gareth
    - #### Yes, accessibly is for everyone to consider. The more people who are aware of its importance the more it would become a normality to consider it in day to day work. 
-   - #### From designers to developers, everyone has an input into moving towards a more accessible web, whether that entails colour contrast issues for designers to resolve or giving your application more context for disabled users so they can better understand the applications intentions.
+   - #### From designers and developers to testers and project managers, everyone has an input into moving towards a more accessible web, whether that entails colour contrast issues for designers to resolve or giving your application more context for disabled users so they can better understand the applications intentions. It’s also important that accessibility is tested before it goes out to production to ensure that users with impairments are getting the best possible experience of your application.
  
 ## Example of sites with great accessibility
  - https://www.citizensadvice.org.uk
