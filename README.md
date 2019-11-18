@@ -37,13 +37,13 @@
 6. What are the needs that Web Accessibility aims to address?
  - Can you give some examples of Visual impairments?
    * Gareth
-    - #### Visual impairments include blindness, various common types of low vision and poor eyesight, various types of color blindness;
+    - #### Visual impairments may include blindness, various common types of low vision and poor eyesight and also various types of colour blindness.
  - What about motor impairments?
    * Nicholas
     - This could take the form of a user not being able to use a mouse, when a user can't difficulty or inability to use the hands, including tremors, muscle slowness, loss of fine muscle control, etc., due to conditions such as Parkinson's disease, muscular dystrophy, cerebral palsy, stroke;
  - What about hearing impairments?
    * Gareth
-    - #### When a user can't hear dialog or music, Deafness or hearing impairments, including individuals who are hard of hearing;
+    - #### Hearing impairments can include deafness or being hard of hearing. This can impact a user as they may not be able to hear dialog or music.
  - can you tell us a bit about cognitive impairments?
    * Nicholas
     - User has an issue with understanding complex language, Developmental disabilities, learning difficulties (dyslexia, dyscalculia, etc.), and cognitive disabilities (PTSD, Alzheimer's) of various origins, affecting memory, attention, developmental "maturity", problem-solving and logic skills, etc.
