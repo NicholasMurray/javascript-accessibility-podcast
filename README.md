@@ -86,6 +86,8 @@
 12. Accessibility can’t fall on one person’s shoulders. It’s a collective involvement throughout
 your organisation and projects. Do you agree?
  * Nicholas, Gareth
+   - #### Yes, accessibly is for everyone to consider. The more people who are aware of its importance the more it would become a normality to consider it in day to day work. 
+   - #### From designers to developers, everyone has an input into moving towards a more accessible web, whether that entails colour contrast issues for designers to resolve or giving your application more context for disabled users so they can better understand the applications intentions.
  
 ## Example of sites with great accessibility
  - https://www.citizensadvice.org.uk
