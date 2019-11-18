@@ -65,6 +65,21 @@
  - Visibility Colour Contrast - color contrast analyzer, site improve accessibility checker
 10. What assistive technologies are used for web browsing?
  * Gareth
+   - #### Technologies used for web browsing may include screen readers, speech recognition and screen magnifiers.
+   - #### Screen readers may be used by users with visual impairments such as blindness and low vision. Technologies used my include:   
+   - #### JAWS – can be expensive but seen to be one of the leading screen reading technologies.
+   - ####	NVDA – an open-source tool that’s is provided by a non-profit called NV access. 
+   - ####	Windows Screen reader – built into Windows OS.
+   - #### VoiceOver – built into MacOS and iOS.
+   - #### Talkback – built into Android devices.
+   - #### Speech recognition may be used by users with mobility issues to use voice commands to operate technology. Technologies used may include: 
+   - #### Windows Speech Recognition.
+   - #### iOS Speech Recognition/Siri.
+   - #### Android Speech Recognition/Google Assistant.
+   - #### Captioning tools such as YouTube – uses machine learning to create captions for the video.
+   - #### Screen magnifiers may be used by users with visual impairments such as limited vision. Technologies may include:
+   - #### Most browsers will have a zoom tool
+   - #### Text size on OS can be increased  - MacOS, Windows, iOS, Android
 11. What guidelines are available for the developers and designers?
  * Nicholas
   - WCAG - Web Content Accessibility Guidelines - https://www.w3.org/WAI/standards-guidelines/wcag/
